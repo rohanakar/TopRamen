@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/TopRamen/static/css/main.f471dea3.chunk.css",
-    "main.js": "/TopRamen/static/js/main.e94c5372.chunk.js",
-    "main.js.map": "/TopRamen/static/js/main.e94c5372.chunk.js.map",
+    "main.js": "/TopRamen/static/js/main.e62d0e8d.chunk.js",
+    "main.js.map": "/TopRamen/static/js/main.e62d0e8d.chunk.js.map",
     "runtime-main.js": "/TopRamen/static/js/runtime-main.dfc756ec.js",
     "runtime-main.js.map": "/TopRamen/static/js/runtime-main.dfc756ec.js.map",
-    "static/js/2.abc560ae.chunk.js": "/TopRamen/static/js/2.abc560ae.chunk.js",
-    "static/js/2.abc560ae.chunk.js.map": "/TopRamen/static/js/2.abc560ae.chunk.js.map",
+    "static/js/2.ffb2abd6.chunk.js": "/TopRamen/static/js/2.ffb2abd6.chunk.js",
+    "static/js/2.ffb2abd6.chunk.js.map": "/TopRamen/static/js/2.ffb2abd6.chunk.js.map",
     "index.html": "/TopRamen/index.html",
-    "precache-manifest.6fd25de62b10f9ed6ff47eb4a8c4f403.js": "/TopRamen/precache-manifest.6fd25de62b10f9ed6ff47eb4a8c4f403.js",
+    "precache-manifest.cf652af8691cc95b348ec05cdeb80649.js": "/TopRamen/precache-manifest.cf652af8691cc95b348ec05cdeb80649.js",
     "service-worker.js": "/TopRamen/service-worker.js",
     "static/css/main.f471dea3.chunk.css.map": "/TopRamen/static/css/main.f471dea3.chunk.css.map",
-    "static/js/2.abc560ae.chunk.js.LICENSE.txt": "/TopRamen/static/js/2.abc560ae.chunk.js.LICENSE.txt",
+    "static/js/2.ffb2abd6.chunk.js.LICENSE.txt": "/TopRamen/static/js/2.ffb2abd6.chunk.js.LICENSE.txt",
     "static/media/list.svg": "/TopRamen/static/media/list.7da6f7a2.svg",
     "static/media/search.svg": "/TopRamen/static/media/search.5437e521.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.dfc756ec.js",
-    "static/js/2.abc560ae.chunk.js",
+    "static/js/2.ffb2abd6.chunk.js",
     "static/css/main.f471dea3.chunk.css",
-    "static/js/main.e94c5372.chunk.js"
+    "static/js/main.e62d0e8d.chunk.js"
   ]
 }

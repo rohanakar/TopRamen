@@ -1,5 +1,5 @@
 How to run 
-1. Extract it to firecompass folder
+1. Extract it to TopRamen folder
 2. Run npm i
 3. Run npm start
 4. access on localhost:3000
@@ -7,7 +7,7 @@ How to run
 
 libraries used:
 1. React-router for routing country.
-2. React-redux fro state management.
+2. React-redux for state management.
 
 
 brief overflow

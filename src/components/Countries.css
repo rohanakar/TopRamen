@@ -1,0 +1,100 @@
+    .country-cards {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, 30%);
+        grid-gap: 10px;
+        justify-content: center;
+        align-content: flex-start;
+        margin: 0 auto;
+        text-align: center;
+        margin-top: 1em;
+        place-content: center;
+        margin: auto;
+        width: 80vw;
+        margin-top: 10vh;
+        background-color: rgb(168, 235, 213);
+    }
+    
+    .country-card {
+        height: 50px;
+        margin: 1em;
+        background-color: lightblue;
+        line-height: 50px;
+        cursor: pointer;
+        border-radius: 5px;
+        box-shadow: 5px 10px black;
+    }
+    
+    .country-card:hover {
+        height: 50px;
+        margin: 1em;
+        background-color: lightblue;
+        line-height: 50px;
+        cursor: pointer;
+        border-radius: 5px;
+        box-shadow: none;
+        border: none;
+        transform: translate(5px, 10px);
+        transition: all 0.2s;
+    }
+    
+    .top-brands {
+        text-align: center;
+        font-size: 32px;
+        margin: 5vh;
+    }
+    
+    .brand {
+        text-align: center;
+        font-size: 16px;
+        margin-Top: 10px;
+        background-color: lightblue;
+        padding: 10px;
+        line-height: 25px;
+    }
+    
+    .tooltip {
+        position: relative;
+        margin-left: auto;
+        float: right;
+        margin-right: 50px;
+    }
+    
+    .tooltip .tooltiptext {
+        visibility: hidden;
+        width: 150px;
+        font-size: 12px;
+        background-color: #555;
+        color: #fff;
+        text-align: center;
+        border-radius: 6px;
+        padding: 5px 0;
+        position: absolute;
+        z-index: 1;
+        bottom: 125%;
+        left: 10%;
+        margin-left: -60px;
+        opacity: 0;
+        transition: opacity 0.3s;
+    }
+    
+    .tooltip .tooltiptext::after {
+        content: "";
+        position: absolute;
+        top: 100%;
+        left: 50%;
+        margin-left: -5px;
+        border-width: 5px;
+        border-style: solid;
+        border-color: #555 transparent transparent transparent;
+    }
+    
+    .tooltip:hover .tooltiptext {
+        visibility: visible;
+        opacity: 1;
+    }
+    
+    @media (max-width: 700px) {
+        .country-cards {
+            grid-template-columns: repeat(auto-fill, 90%);
+        }
+    }

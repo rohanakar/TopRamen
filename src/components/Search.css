@@ -1,0 +1,23 @@
+.search-button {
+    position: absolute;
+    margin: auto auto;
+    left: 5px;
+    height: 33px;
+    cursor: pointer;
+}
+
+.search-main {
+    position: relative;
+    height: 35px;
+    justify-items: center;
+    display: flex;
+    width: 400px;
+    padding-top: 20px;
+    margin-left: auto;
+    margin-right: 20px;
+}
+
+.input {
+    padding-left: 40px;
+    width: 400px;
+}

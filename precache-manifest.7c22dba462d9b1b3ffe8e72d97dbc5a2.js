@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f640f3365d6c116bd7e1424a7e95e068",
+    "revision": "c9f366e7049843439e83ffe19ad49723",
     "url": "/TopRamen/index.html"
   },
   {
-    "revision": "ca240f3fbb1ea98447dc",
+    "revision": "beb31683bf3715be6bef",
     "url": "/TopRamen/static/css/main.f471dea3.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TopRamen/static/js/2.abc560ae.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca240f3fbb1ea98447dc",
-    "url": "/TopRamen/static/js/main.7a1d1c07.chunk.js"
+    "revision": "beb31683bf3715be6bef",
+    "url": "/TopRamen/static/js/main.e94c5372.chunk.js"
   },
   {
     "revision": "464b11951e45848757bc",
